@@ -1,0 +1,10 @@
+D:\Dropbox\Downloads\Coding\C\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Dropbox\Downloads\Coding\C\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Dropbox\Downloads\Coding\C\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Dropbox\Downloads\Coding\C\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Dropbox\Downloads\Coding\C\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Dropbox\Downloads\Coding\C\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Dropbox\Downloads\Coding\C\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Dropbox\Downloads\Coding\C\Calculator\Calculator\obj\Debug\Calculator.window.resources
+D:\Dropbox\Downloads\Coding\C\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Dropbox\Downloads\Coding\C\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
